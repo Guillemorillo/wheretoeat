@@ -1,4 +1,9 @@
 # WhereToEat
+WhereToEat is a proyect for the course Web development in forntend
+
+![imgFlyer](assets/images/Captura.png)
+
+<img src="https://github.com/Guillemorillo/wheretoeat/assets/images/Captura.png" />
 
 > Look restaurants. Enjoy the food.
 
